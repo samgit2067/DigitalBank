@@ -1,4 +1,4 @@
-Feature: This feature is to test if the user is able to view all their details on the account home page
+åFeature: This feature is to test if the user is able to view all their details on the account home page
   #Display message "Welcome (First_name) on the right top header.
   #Display a panel with account information:
   #Home title
